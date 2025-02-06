@@ -132,3 +132,7 @@ El script está compuesto por dos clases principales:
    - Toda la documentación en un solo lugar
    - Búsqueda inteligente dentro del contenido
    - Referencias cruzadas automáticas
+
+## 📄 Licencia
+
+Este proyecto está bajo la Licencia MIT - consulta el archivo [LICENSE](LICENSE) para más detalles.
